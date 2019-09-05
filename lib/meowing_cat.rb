@@ -7,4 +7,3 @@ end
 def .meow(Cat)
   puts "meow!"
 end
-
