@@ -4,6 +4,6 @@ class Cat
 
 end
 
-def .meow(Cat)
+def meow(Cat)
   puts "meow!"
 end
